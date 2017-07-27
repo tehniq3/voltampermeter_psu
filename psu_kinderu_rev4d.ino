@@ -53,7 +53,7 @@ unsigned long tpmasurare;  // variabila pentru memorare timp masurare (in ms)
 unsigned long tpintremasurari = 30000;  // temperatura se masoara la 30 secunde
 
 float t;  // variabila pentru temperatura
-float temax = 50.0;  // temperatura maxima 40 grade
+float temax = 50.0;  // temperatura maxima 50 grade
 float dete = 5.0;    // histerezis temperatura
 
 float r2 = 51.; // rezistenta conectata de la + la A1
